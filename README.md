@@ -16,6 +16,9 @@
 - 향 종류를 소개하고, 각 향마다의 추천 향수를 알려주며 향기를 글로 표현하여 설명한다.
 - 향수나 향을 검색해 볼 수 있고 맘에 드는 향수는 장바구니에 넣거나 즐겨찾기 등을 할 수 있다.
 
+## PPT
+(https://github.com/Meang27/Meang27/blob/main/MATABA.pptx)
+
 ## 참고 이미지
 ![](https://github.com/Meang27/Meang27/blob/main/mataba_login_1.JPG)
 ![](https://github.com/Meang27/Meang27/blob/main/incense.JPG)
