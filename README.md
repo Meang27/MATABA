@@ -19,6 +19,9 @@
 ## PPT
 (https://github.com/Meang27/Meang27/blob/main/MATABA.pptx)
 
+## 시연 동영상
+(https://github.com/Meang27/Meang27/blob/main/MATABA_%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.mp4)
+
 ## 참고 이미지
 ![](https://github.com/Meang27/Meang27/blob/main/mataba_login_1.JPG)
 ![](https://github.com/Meang27/Meang27/blob/main/incense.JPG)
